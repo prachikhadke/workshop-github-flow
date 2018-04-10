@@ -31,4 +31,5 @@ You can use the below raw markdown template to create your [your-github-username
  | Name | [Your Name] |
  | Favorite color | Yellow |
  | Favorite emoji | :sparkles: |
- ```
+
+```
